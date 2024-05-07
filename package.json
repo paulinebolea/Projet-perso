@@ -1,0 +1,25 @@
+{
+  "name": "projet-perso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinebolea/Projet-perso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinebolea/Projet-perso/issues"
+  },
+  "homepage": "https://github.com/paulinebolea/Projet-perso#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "source": "src/index.html",
+    "scripts": {
+      "start": "parcel --no-cache",
+      "build": "parcel build"
+    }
+}
